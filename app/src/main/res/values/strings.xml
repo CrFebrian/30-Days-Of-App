@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">30 Day of Anime List</string>
+    <string name="day_1_title">Watch Movie 1</string>
+    <string name="day_1_description">Enjoy the first episode of your favorite anime in your safe.</string>
+    <string name="day_2_title">Watch Movie 2</string>
+    <string name="day_2_description">Explore a new soundtrack or theme song.</string>
+    <string name="day_3_title">Read Manga</string>
+    <string name="day_3_description">Try reading the manga version of your favorite anime.</string>
+    <string name="day_4_title">Watch a Movie</string>
+    <string name="day_4_description">Enjoy an anime movie from your favorite studio.</string>
+</resources>
